@@ -24,15 +24,16 @@
      • Ciclón
 
 # *Django*
- > Un framework de alto nivel diseñado para un desarrollo rápido y eficiente. Su arquitectura está diseñada de tal manera que ahorre su tiempo y esfuerzo tanto como sea posible y, en el futuro, el tiempo y el dinero de los clientes. Los fundamentos de la filosofía de Django -DRY y desarrollo rápido- fomentan la reutilización del código y reducen la redundancia.
+![Alt text](django.jpg)
+  Un framework de alto nivel diseñado para un desarrollo rápido y eficiente. Su arquitectura está diseñada de tal manera que ahorre su tiempo y esfuerzo tanto como sea posible y, en el futuro, el tiempo y el dinero de los clientes. Los fundamentos de la filosofía de Django -DRY y desarrollo rápido- fomentan la reutilización del código y reducen la redundancia.
 ## *Características*
-      •  Control de versiones de base de datos (migraciones).
-      •  Motor de plantillas propio.
-      •  Asignaciones relacionales de objetos (ORM).
-      •  Enrutamiento de URL.
-      •  Soporte de servidor web.
-      •  Soporte de autenticación.
-      •  Apoyo a la internacionalización.
+ * Control de versiones de base de datos (migraciones).
+ * Motor de plantillas propio.
+ * Asignaciones relacionales de objetos (ORM).
+ * Enrutamiento de URL.
+ * Soporte de servidor web.
+ * Soporte de autenticación.
+ * Apoyo a la internacionalización.
 
 ## *Ventajas*
 
@@ -53,8 +54,9 @@
 
 Django es uno de los frameworks más populares, muchos estudios web trabajan con él, por lo que es importante poder usarlo si vas a trabajar en tecnologías web. Puede aprenderlo y otras herramientas necesarias para un desarrollador web en el curso SkillFactory.
 
-# *Pirámide*
->Si quieres algo más minimalista, te puede gustar Pyramid. Este framework es adecuado para proyectos de cualquier tamaño. Tiene funciones útiles para crear aplicaciones complejas o escalar inicialmente sitios pequeños para aumentar la carga.
+# *Pyramid*
+![Alt text](piramide.jpg)
+Si quieres algo más minimalista, te puede gustar Pyramid. Este framework es adecuado para proyectos de cualquier tamaño. Tiene funciones útiles para crear aplicaciones complejas o escalar inicialmente sitios pequeños para aumentar la carga.
 
 ## Características
 
@@ -64,7 +66,7 @@ Django es uno de los frameworks más populares, muchos estudios web trabajan con
 ## Ventajas
  
 ### Flexibilidad y facilidad de personalización. 
- > Se puede reemplazar cualquier componente del framework, ya sea una base de datos o un motor de plantillas. Incluso puede usar varios componentes diferentes al mismo tiempo (por ejemplo, conectar dos bases de datos diferentes).
+  Se puede reemplazar cualquier componente del framework, ya sea una base de datos o un motor de plantillas. Incluso puede usar varios componentes diferentes al mismo tiempo (por ejemplo, conectar dos bases de datos diferentes).
 ### Solicitudes prácticas de Ajax. 
  Gracias al sistema de decoradores y vistas, puedes enviar solicitudes XHR sin ningún esfuerzo adicional por parte del desarrollador.
 ### soporte de alquimia SQL.
@@ -80,7 +82,9 @@ Django es uno de los frameworks más populares, muchos estudios web trabajan con
 >Charte.ca es un editor de mapas en línea para no especialistas.
 Easy Blog Networks es un proveedor de alojamiento.
 Substance-D es un entorno de desarrollo de aplicaciones web.
-# *TurboGears*
+# *Turbogears*
+![Alt text](turbo.jpg)
+
 Sitio web | PIS | Centro Git | Desbordamiento de Pila
 
 TurboGears es un framework de código abierto para el desarrollo rápido de aplicaciones que funcionan con datos. Es compatible con SQLAlchemy, Genshi, WebOb y Repoze, por lo que TurboGears es ideal para cualquier sistema que necesite un buen soporte de base de datos.
@@ -105,7 +109,9 @@ Tiene tantas opciones de expansión que es fácil perderse.
 
 Apache Allura es una plataforma de gestión de repositorios de código en línea creada por SourceForge.
 Kamisons es un sitio de venta de paraguas.
-# *Matraz*
+# *Flask*
+!
+
 Flask es un framework WSGI que es adecuado tanto para sitios simples como para plataformas complejas. Es compatible con bibliotecas de terceros y tiene muchas extensiones.
 
 ## Características
@@ -124,14 +130,15 @@ Prototipo rápido. Todas las herramientas que necesita para crear un prototipo f
 
 *Los menos*
 
-El framework es de un nivel relativamente bajo, por lo que primero debe comprenderlo, y los requisitos para el nivel de programador son más altos que otros. Si no quiere saber qué y cómo funciona bajo el capó, pero crea sitios web de inmediato, es mejor elegir otra cosa.
+>El framework es de un nivel relativamente bajo, por lo que primero debe comprenderlo, y los requisitos para el nivel de programador son más altos que otros. Si no quiere saber qué y cómo funciona bajo el capó, pero crea sitios web de inmediato, es mejor elegir otra cosa.
 
 *¿Dónde se usa?*
 
 * Rainist es una plataforma de gestión de finanzas personales en línea.
 * Netflix es una de las plataformas de streaming más grandes del mundo.
 * Lyft es una plataforma de pedidos de taxis y alquiler de vehículos.
-# Ciclón
+# *Cyclone*
+*
 >
 Un framework asíncrono, gracias a un intercambio de datos sin bloqueo, capaz de soportar simultáneamente numerosas conexiones de usuarios. Perfecto para tareas que requieren una larga conexión con cada usuario.
 
